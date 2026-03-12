@@ -10,8 +10,8 @@
   "dependencies": {
     "@hono/node-server": "1.13.7",
     "hono": "4.7.4",
-    "hono-intlayer": "latest",
-    "intlayer": "latest"
+    "hono-intlayer": "8.3.0-canary.4",
+    "intlayer": "8.3.0-canary.4"
   },
   "devDependencies": {
     "@types/node": "25.0.10",
