@@ -8,13 +8,13 @@
     "start": "node dist/index.js"
   },
   "dependencies": {
-    "@hono/node-server": "1.13.7",
-    "hono": "4.7.4",
+    "@hono/node-server": "2.0.8",
+    "hono": "4.12.27",
     "hono-intlayer": "9.0.0-canary.12",
     "intlayer": "9.0.0-canary.12"
   },
   "devDependencies": {
-    "@types/node": "25.0.10",
-    "typescript": "6.0.2"
+    "@types/node": "26.1.0",
+    "typescript": "6.0.3"
   }
 }
